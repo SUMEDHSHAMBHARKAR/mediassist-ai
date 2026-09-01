@@ -1,0 +1,12 @@
+/* ==========================================================================
+   MediAssist AI — global stylesheet entry
+   --------------------------------------------------------------------------
+   Import order matters: tokens first, then base, then layout, then components,
+   then page compositions. Nothing below this file should redefine a token.
+   ========================================================================== */
+
+@import "./styles/tokens.css";
+@import "./styles/base.css";
+@import "./styles/layout.css";
+@import "./styles/components.css";
+@import "./styles/pages.css";

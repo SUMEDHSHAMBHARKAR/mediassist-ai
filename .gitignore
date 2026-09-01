@@ -1,0 +1,26 @@
+.test-venv/
+backend/.seed-venv/
+frontend/dist/
+**/__pycache__/
+.venv/
+backend/.venv/
+.env
+backend/.env
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+backend/.venv/
+
+# Secrets
+.env
+backend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/

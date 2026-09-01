@@ -1,0 +1,8 @@
+
+Admin
+admin1@mediassistdemo.org, admin2@mediassistdemo.org
+Doctor
+doctor1@mediassistdemo.org, doctor2@mediassistdemo.org
+Patient
+patient1@mediassistdemo.org, patient2@mediassistdemo.org
+Password for all: DemoPass@2026

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Appointment Confirmed</h2>
+
+<p>Hello <strong>{{ patient_name }}</strong>,</p>
+
+<p>Your appointment has been successfully booked.</p>
+
+<ul>
+    <li><strong>Doctor:</strong> {{ doctor_name }}</li>
+    <li><strong>Date:</strong> {{ appointment_date }}</li>
+    <li><strong>Time:</strong> {{ appointment_time }}</li>
+</ul>
+
+<p>Thank you for choosing MediAssist AI.</p>
+
+{% endblock %}
